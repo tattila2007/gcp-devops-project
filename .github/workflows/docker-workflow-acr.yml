@@ -1,4 +1,4 @@
-name: Docker to ACR
+name: Push the Docker image to Azure ACR
 
 on:
   push:
