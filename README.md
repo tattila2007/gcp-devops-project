@@ -1,4 +1,4 @@
 # Docker flask application
 
 - This application is written in python
-- It shall be deployed on GKE
+- Deployeable on AWS-ECR or Azure-ACR
